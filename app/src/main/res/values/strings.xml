@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="mark_as_completed">Mark as Completed</string>
+    <string name="reset">Reset</string>
+    <string name="previous">String</string>
+    <string name="hello_first_fragment">hello_first_fragment</string>
+    <string name="next">next</string>
+    <string name="first_fragment_label">first_fragment_label</string>
+    <string name="second_fragment_label">second_fragment_label</string>
+
+</resources>
